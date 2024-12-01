@@ -53,7 +53,7 @@ document.addEventListener('visibilitychange',
 
 
 var typed = new Typed(".typing-text", {
-    strings: ["full stack development",  "web designing",  "cloud computing"],
+    strings: ["data analytics", "cloud computing", "full stack development"],
     loop: true,
     typeSpeed: 50,
     backSpeed: 25,
